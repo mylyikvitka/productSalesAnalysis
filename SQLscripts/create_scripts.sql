@@ -1,4 +1,3 @@
-select current_database();
 
 CREATE TABLE Customer (
     customer_id INTEGER PRIMARY KEY,
@@ -32,6 +31,3 @@ CREATE TABLE Sale (
     total_price NUMERIC
 );
 
-
-DROP TABLE IF EXISTS Customer CASCADE;
-DROP TABLE IF EXISTS Product CASCADE;

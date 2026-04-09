@@ -4,6 +4,22 @@
 
 This project analyzes sales data from a UK-based, registered non-store online retail company. The dataset covers all transactions between December 1, 2010 and December 9, 2011. The goal is to explore sales trends, product performance, and customer behavior using data cleaning, relational modeling, and visualization.
 
+# Executive Summary
+ 
+- November–December drive the highest revenue due to seasonal demand; February and April are the lowest-performing months.  
+- The majority of revenue comes from the UK, with international markets contributing significantly less.  
+- Repeat (known) customers make up the bulk of purchases, highlighting a loyal customer base.   
+- Recommendations include optimizing promotions during peak hours, focusing on high-value products, enhancing customer retention, and expanding international presence strategically.  
+
+## Business Problem
+
+The company aimed to understand customer purchasing behavior and optimize revenue generation. Key questions included:
+
+- Which products generate the most revenue and quantity sold?  
+- When (time of day, day of week, and month) do sales peak or decline?  
+- How does customer type (known vs unknown) affect revenue and repeat purchases?  
+- Which international markets are underperforming and could be targeted for growth?  
+- How can insights be leveraged to increase sales, retain customers, and improve operational efficiency?
 ## Dataset
 
 The dataset contains transactional data including:

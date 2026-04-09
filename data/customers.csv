@@ -223,6 +223,7 @@ CustomerID,Country,IsKnownCustomer
 17967,United Kingdom,True
 16891,United Kingdom,True
 14589,United Kingdom,True
+0,Unknown,False
 14680,United Kingdom,True
 17884,United Kingdom,True
 12557,Spain,True
@@ -877,6 +878,7 @@ CustomerID,Country,IsKnownCustomer
 14985,United Kingdom,True
 13004,United Kingdom,True
 14560,United Kingdom,True
+12370,Austria,True
 12931,United Kingdom,True
 13627,United Kingdom,True
 12551,Spain,True
@@ -911,6 +913,7 @@ CustomerID,Country,IsKnownCustomer
 14646,Netherlands,True
 12944,United Kingdom,True
 15312,United Kingdom,True
+0,Unknown,False
 14099,United Kingdom,True
 14113,United Kingdom,True
 13104,United Kingdom,True
@@ -1046,6 +1049,7 @@ CustomerID,Country,IsKnownCustomer
 12500,Germany,True
 18171,United Kingdom,True
 16279,United Kingdom,True
+0,Unknown,False
 12524,Germany,True
 17811,United Kingdom,True
 16850,United Kingdom,True
@@ -1250,6 +1254,7 @@ CustomerID,Country,IsKnownCustomer
 12935,United Kingdom,True
 16730,United Kingdom,True
 14541,United Kingdom,True
+0,Unknown,False
 13551,United Kingdom,True
 12421,Spain,True
 15797,United Kingdom,True
@@ -1582,6 +1587,7 @@ CustomerID,Country,IsKnownCustomer
 17422,United Kingdom,True
 17175,United Kingdom,True
 18257,United Kingdom,True
+12431,Belgium,True
 12362,Belgium,True
 13018,United Kingdom,True
 13718,United Kingdom,True
@@ -2459,6 +2465,7 @@ CustomerID,Country,IsKnownCustomer
 17670,United Kingdom,True
 16834,United Kingdom,True
 15108,European Community,True
+12429,Austria,True
 16942,United Kingdom,True
 14640,United Kingdom,True
 16823,United Kingdom,True
@@ -2483,6 +2490,7 @@ CustomerID,Country,IsKnownCustomer
 14973,United Kingdom,True
 14271,United Kingdom,True
 15952,United Kingdom,True
+12417,Spain,True
 16227,United Kingdom,True
 17893,United Kingdom,True
 14022,United Kingdom,True
@@ -2676,6 +2684,7 @@ CustomerID,Country,IsKnownCustomer
 12620,France,True
 15599,United Kingdom,True
 16813,United Kingdom,True
+0,Unknown,False
 14859,United Kingdom,True
 16463,United Kingdom,True
 15791,United Kingdom,True
@@ -2784,6 +2793,7 @@ CustomerID,Country,IsKnownCustomer
 17531,United Kingdom,True
 16239,United Kingdom,True
 14500,United Kingdom,True
+12455,Spain,True
 16117,United Kingdom,True
 13248,United Kingdom,True
 16967,United Kingdom,True
@@ -2891,6 +2901,7 @@ CustomerID,Country,IsKnownCustomer
 12624,France,True
 18165,United Kingdom,True
 17536,United Kingdom,True
+0,Unknown,False
 16324,United Kingdom,True
 17651,United Kingdom,True
 14222,United Kingdom,True
@@ -2970,6 +2981,7 @@ CustomerID,Country,IsKnownCustomer
 12412,Denmark,True
 12697,Sweden,True
 13937,United Kingdom,True
+12422,Switzerland,True
 12615,France,True
 15850,United Kingdom,True
 15186,United Kingdom,True
@@ -3094,6 +3106,7 @@ CustomerID,Country,IsKnownCustomer
 14722,United Kingdom,True
 13507,United Kingdom,True
 13967,United Kingdom,True
+0,Unknown,False
 16054,United Kingdom,True
 12833,United Kingdom,True
 16474,United Kingdom,True
@@ -3498,6 +3511,7 @@ CustomerID,Country,IsKnownCustomer
 16689,United Kingdom,True
 16438,United Kingdom,True
 13067,United Kingdom,True
+12457,Cyprus,True
 16460,United Kingdom,True
 13325,United Kingdom,True
 12640,France,True
@@ -3727,6 +3741,7 @@ CustomerID,Country,IsKnownCustomer
 13348,United Kingdom,True
 14592,United Kingdom,True
 14792,United Kingdom,True
+12394,Denmark,True
 17030,United Kingdom,True
 12420,Cyprus,True
 14427,United Kingdom,True
@@ -3941,6 +3956,7 @@ CustomerID,Country,IsKnownCustomer
 15963,United Kingdom,True
 18045,United Kingdom,True
 13182,United Kingdom,True
+0,Unknown,False
 15158,United Kingdom,True
 13028,United Kingdom,True
 13978,United Kingdom,True

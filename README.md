@@ -16,10 +16,11 @@ This project analyzes sales data from a UK-based, registered non-store online re
 The company aimed to understand customer purchasing behavior and optimize revenue generation. Key questions included:
 
 - Which products generate the most revenue and quantity sold?  
-- When (time of day, day of week, and month) do sales peak or decline?  
+- When do sales peak or decline?  
 - How does customer type (known vs unknown) affect revenue and repeat purchases?  
 - Which international markets are underperforming and could be targeted for growth?  
-- How can insights be leveraged to increase sales, retain customers, and improve operational efficiency?
+- What factors to consider to increase the total sales and revenue?
+
 ## Dataset
 
 The dataset contains transactional data including:
